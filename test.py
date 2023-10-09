@@ -7,3 +7,5 @@ b = np.cos(np.pi/2)
 print(a)
 
 print(b)
+
+print("mahuizi_try")
